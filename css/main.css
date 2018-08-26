@@ -1,0 +1,26 @@
+body {background: #3399ff;
+}
+
+#newProfile {width: 60%;
+		height:200px;
+		margin: 0 auto;
+		color:white;
+		text-align: center;
+		 }
+
+
+	
+#sendDataButton {border: solid black;}
+
+
+
+input {border: solid black;}
+
+
+
+
+.form-control {border: solid black;}
+ #updatedProfile {color:white;
+				text-align:center;}
+
+
